@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahkar-khatana&label=Profile%20views&color=0e75b6&style=flat" alt="mahkar-khatana" /> </p>
 
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://media1.tenor.com/m/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif">
+
 - 🔭 I’m currently working on **M-Square Media**
 
 - 👯 I’m looking to collaborate on **new projects**
