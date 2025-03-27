@@ -1,3 +1,4 @@
+![logo](https://github.com/mahkar-khatana/mahkar-khatana/blob/main/B321D4CC-AF3C-4B51-B459-A06F95135B16.jpeg)
 <h1 align="center">Hi 👋, I'm Mahkar Khatana</h1>
 <h3 align="center">I'm a first year CSE student passionate about coding.</h3>
 
