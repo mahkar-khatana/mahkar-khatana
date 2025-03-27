@@ -5,7 +5,11 @@
 
 - 🔭 I’m currently working on **M-Squaare Media**
 
-- 📫 You can reach me at  **vinaykhatana2828@gmail.com**
+- 👯 I’m looking to collaborate on **new projects**
+
+- 💬 Ask me about **C++ and Python**
+
+- 📫 How to reach me **vinaykhatana2828@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
