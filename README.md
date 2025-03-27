@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahkar-khatana&label=Profile%20views&color=0e75b6&style=flat" alt="mahkar-khatana" /> </p>
 
-- 🔭 I’m currently working on **M-Squaare Media**
+- 🔭 I’m currently working on **M-Square Media**
 
 - 👯 I’m looking to collaborate on **new projects**
 
